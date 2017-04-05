@@ -1,1 +1,3 @@
 create lesson 3 for reflection.
+point 1
+
